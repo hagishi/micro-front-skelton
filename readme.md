@@ -1,5 +1,9 @@
 # micro front skelton
 
+## requirement
+
+node
+
 ## setup
 
 ```
