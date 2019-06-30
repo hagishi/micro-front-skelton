@@ -1,0 +1,15 @@
+{
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.3",
+    "sass": "^1.22.1",
+    "typescript": "^3.5.2"
+  },
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  }
+}
